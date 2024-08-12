@@ -1,0 +1,83 @@
+window {
+    margin: 0px;
+    border: 5px solid null;
+    background-color: null;
+    border-radius: 15px;
+}
+
+#input {
+    padding: 4px;
+    margin: 4px;
+    padding-left: 20px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #01111D;
+    outline: none;
+    border-radius: 15px;
+    margin: 10px;
+    margin-bottom: 2px;
+}
+
+#input:focus {
+    border: 0px solid #01111D;
+    margin-bottom: 0px;
+}
+
+#inner-box {
+    margin: 4px;
+    border: 10px solid #01111D;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #01111D;
+    border-radius: 15px;
+}
+
+#outer-box {
+    margin: 0px;
+    border: none;
+    border-radius: 15px;
+    background-color: #01111D;
+}
+
+#scroll {
+    margin-top: 5px;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+
+#img:selected {
+    background-color: #496886;
+    border-radius: 15px;
+}
+
+#text {
+    margin-left: 20px; /* Extend the margin between icon and text */
+    color: #FFFFFF;
+}
+
+#text:selected {
+    margin-left: 20px; /* Ensure the margin is applied to selected text as well */
+    color: #FFFFFF;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 15px;
+    background-color: #496886;
+}
+
+#entry {
+    margin: 10px 0px;
+    padding-left: 20px;  /* Add padding to maintain spacing */
+    border: none;
+    border-radius: 15px;
+    background-color: transparent;
+}
+
+#entry:selected {
+    margin: 10px 0px;
+    padding-left: 20px;  /* Ensure padding is consistent for selected entry */
+    border: none;
+    border-radius: 15px;
+    background-color: #496886;
+}
