@@ -18,7 +18,7 @@
 
 
 
-| component           | resource  
+| Component           | Resource  
 | :---------          | :-------  
 | Window Manager      | [hyprland](https://github.com/hyprwm/Hyprland)
 | Color theme         | [pywal](https://github.com/dylanaraps/pywal)
