@@ -42,11 +42,6 @@
 ### Using quick script
 Installation script is still WIP :(
 
-```bash
-  npm install my-project
-  cd my-project
-```
-
 ### Manually
 * Install all listed dependencies above, with also  [git](https://github.com/git/git):
 * Clone the dotfiles
