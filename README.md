@@ -33,7 +33,7 @@
 | App launcher        | [wofi](https://hg.sr.ht/~scoopta/wofi)
 | Wallpaper daemon    | [swww](https://github.com/LGFae/swww)
 | Screenshot tool     | [hyprshot](https://github.com/Gustash/Hyprshot)
-| font                | [Noto Sans](https://archlinux.org/packages/extra/any/noto-fonts/) & [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+| Font                | [Noto Sans](https://archlinux.org/packages/extra/any/noto-fonts/) & [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 | Audio visualizer    | [cava](https://github.com/karlstav/cava)
 | Terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 
