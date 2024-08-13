@@ -61,3 +61,11 @@ $ sudo cp -rf dotfiles/sddm-theme /usr/share/sddm/themes/
 [Theme]
 Current=sddm-theme
 ```
+
+
+## Credits
+<img src=".config/neofetch/osage.png" align="right" width="200px">
+
+ - [Osage and the wallpapers's artist](https://x.com/nknk_ngrms)
+ - [SDDM original corner theme](https://github.com/aczw/sddm-theme-corners)
+ - [My Wallpaper Switcher ](https://github.com/k4ahr/wallpaper-switcher)
