@@ -1,7 +1,7 @@
 
 # DaoVuong's rice
 
-<img src=".config/neofetch/osage.png"  width="45%"></img> 🗃️ K4ahr's Hyprland dotfiles. 
+<img src=".config/neofetch/osage.png"  width="15%"></img> 🗃️ K4ahr's Hyprland dotfiles. 
 
 <img src="screenshots/1.png"></img>
 ## Screenshots
