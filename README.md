@@ -33,7 +33,9 @@
 | App launcher        | [wofi](https://hg.sr.ht/~scoopta/wofi)
 | Wallpaper daemon    | [swww](https://github.com/LGFae/swww)
 | Screenshot tool     | [hyprshot](https://github.com/Gustash/Hyprshot)
-| Font                | [Noto Sans](https://archlinux.org/packages/extra/any/noto-fonts/) & [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+| Main Font           | [Noto Sans](https://archlinux.org/packages/extra/any/noto-fonts/) & [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+| SDDM font           | [Atkinson Hyperlegible](https://archlinux.org/packages/extra/any/ttf-atkinson-hyperlegible/)
+| SDDM font           | [Hack Nerd Fonts](https://archlinux.org/packages/extra/any/ttf-hack-nerd/)
 | Audio visualizer    | [cava](https://github.com/karlstav/cava)
 | Terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 
@@ -66,6 +68,7 @@ Current=sddm-theme
 ## Credits
 <img src=".config/neofetch/osage.png" align="right" width="200px">
 
- - [Osage and the wallpapers's artist](https://x.com/nknk_ngrms)
+ - [Osage and her wallpapers's artist](https://x.com/nknk_ngrms)
  - [SDDM original corner theme](https://github.com/aczw/sddm-theme-corners)
  - [My Wallpaper Switcher ](https://github.com/k4ahr/wallpaper-switcher)
+ - [Other Wallpapers are from reddit](https://www.reddit.com/r/wallpaper/) 
