@@ -71,4 +71,4 @@ Current=sddm-theme
  - [Osage and her wallpapers's artist](https://x.com/nknk_ngrms)
  - [SDDM original corner theme](https://github.com/aczw/sddm-theme-corners)
  - [My Wallpaper Switcher ](https://github.com/k4ahr/wallpaper-switcher)
- - [Other Wallpapers are from reddit](https://www.reddit.com/r/wallpaper/) 
+ - [Other Wallpapers from r/wallpaper](https://www.reddit.com/r/wallpaper/) 
