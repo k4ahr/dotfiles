@@ -21,7 +21,7 @@
 | Component           | Resource  
 | :---------          | :-------  
 | Window Manager      | [hyprland](https://github.com/hyprwm/Hyprland)
-| Color theme         | [pywal](https://github.com/dylanaraps/pywal)
+| Color theme         | [pywal16](https://github.com/eylles/pywal16)
 | Terminal emulator   | [kitty](https://github.com/kovidgoyal/kitty)
 | File manager   | [ranger](https://github.com/ranger/ranger)
 | Shell               | [zsh](https://github.com/ohmyzsh)
