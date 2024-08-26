@@ -21,7 +21,7 @@
 | Component           | Resource  
 | :---------          | :-------  
 | Window Manager      | [hyprland](https://github.com/hyprwm/Hyprland)
-| Color theme         | [pywal](https://github.com/dylanaraps/pywal)
+| Color theme         | [pywal16](https://github.com/eylles/pywal16)
 | Terminal emulator   | [kitty](https://github.com/kovidgoyal/kitty)
 | File manager   | [ranger](https://github.com/ranger/ranger)
 | Shell               | [zsh](https://github.com/ohmyzsh)
@@ -71,4 +71,4 @@ Current=sddm-theme
  - [Osage and her wallpapers's artist](https://x.com/nknk_ngrms)
  - [SDDM original corner theme](https://github.com/aczw/sddm-theme-corners)
  - [My Wallpaper Switcher ](https://github.com/k4ahr/wallpaper-switcher)
- - [Other Wallpapers are from reddit](https://www.reddit.com/r/wallpaper/) 
+ - [Other Wallpapers from r/wallpaper](https://www.reddit.com/r/wallpaper/) 

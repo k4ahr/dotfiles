@@ -58,7 +58,7 @@
         "format-ethernet": "󰛳",
         "format-disconnected": "󰅛",
         "tooltip-format": "{essid}",
-        "on-click": "",
+        "on-click": "kitty -e nmtui",
         "format-icons": ["󰤯","󰤟","󰤢","󰤥","󰤨"],
     },
 
