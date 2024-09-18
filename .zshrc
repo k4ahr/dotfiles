@@ -24,3 +24,12 @@ source ~/.cache/wal/colors-tty.sh
 
 # -- xcursor --
 export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons
+
+# cute sudo
+export SUDO_PROMPT="Give me %u's pass pls: "
+
+# not found
+command_not_found_handler() {
+        printf "%s%s? I don't know what is it\n" "$acc" "$0" >&2
+    return 127
+}
