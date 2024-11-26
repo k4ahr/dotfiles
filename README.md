@@ -1,7 +1,7 @@
 
 # DaoVuong's rice
 
-> 🗃️ K4ahr's Hyprland dotfiles. 
+> ~~🗃️ K4ahr's Hyprland dotfiles. ~~ This dotfiles has been deprecated, and been replace by the new [v2 dotfile](https://github.com/k4ahr/dotfilesV2). Check it out!
 
 <img src="screenshots/1.png"></img>
 ## Screenshots
